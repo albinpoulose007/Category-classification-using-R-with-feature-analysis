@@ -66,5 +66,3 @@ The tasks included:
 - Collaboration and peer evaluation with other project groups gave diverse perspectives and improved our code quality.  
 
 ---
-
-## 📂 Repository Structure  
